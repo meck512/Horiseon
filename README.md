@@ -1,5 +1,8 @@
-Description:
-    For this website I began with general organization. I updated index.html's divs to semantic elements and added appropriate comments making the code much easier to navigate. I did keep a couple div elements where appropriate, as there were multiple sections within the Main and Benefits Sections. I then re-worked and re-ordered style.css to match those semantic elements/comments. I consolidated the style elements where appropriate to simplify the code. Referring to the webpages functionality, I was able to fix the navigation link for "Search Engine Optimization" by adding a missing id. To upgrade the page to todays accessability standards, I added alt elements with basic descriptions where necessary. Lastly I added a consice, descriptive title to the webpage.
+<h1>Horiseon Business Marketing</h1>
+<h2>Description:</h2>
+<p> 
+From the user-end, this website's purpose is to provide information about the business marketing services offered at Horiseon Social Services Inc. It has fully functional navigation links, and meets today's accessibility standards. From the development-end, the html and css are fully updated to semantic elements and fall in the same order allowing for easy upgrades in the future.
+</p>
 
 Screenshot:
 
